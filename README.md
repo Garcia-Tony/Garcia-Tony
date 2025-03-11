@@ -1,7 +1,5 @@
 <div align="center">
   <h1>Anthony Garcia</h1>
-  <h3>Full Stack Software Engineer</h3>
-  <img src="https://komarev.com/ghpvc/?username=Garcia-Tony&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ### About Me 🔭  
@@ -34,6 +32,9 @@ Feel free to reach out!
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </details>
 
----
+<div align="center">
+  <h3>Full Stack Software Engineer</h3>
+  <img src="https://komarev.com/ghpvc/?username=Garcia-Tony&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
  
 
