@@ -47,45 +47,5 @@ Feel free to reach out!
 </details>
 
 ---
+ 
 
-<!-- PROJECTS SECTION -->
-<details>
-  <summary><b>🚀 Featured Projects</b></summary>
-  <br>
-  
-  <h3>MindBloom</h3>
-  <p>A full-stack wellness application that helps users track their mental health journey through daily challenges and mood tracking.</p>
-  
-  **Key Features:**
-  - User authentication with JWT and Argon2 password hashing
-  - Daily wellness challenges system
-  - Mood tracking with calendar visualization
-  - Streak tracking for continuous engagement
-  - Responsive design for all devices
-  
-  **Technologies Used:**
-  - React
-  - Node.js
-  - PostgreSQL
-  - TypeScript
-  - Express
-  
-  <a href="https://github.com/JRodriguez-Luna/MindBloom">View Code</a> | 
-  <a href="https://mindbloom-app.example.com">Live Demo</a>
-</details>
-
----
-
-<!-- CONTACT SECTION -->
-<details open>
-  <summary><b>📫 Connect With Me</b></summary>
-  <br>
-  
-  <div align="center">
-    <a href="https://www.linkedin.com/in/anthonyygarcia/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:your.email@example.com">
-    </a>
-  </div>
-</details>
