@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-## About Me
+## About Me 🔭
 Hello! I'm Anthony Garcia, a Software Engineer Developer.
 
 I’m passionate about coding and problem-solving, a journey that started in high school and led me to LearningFuze to refine my skills. I thrive on creating solutions and continuously learning in this ever-evolving field.
@@ -10,11 +7,9 @@ My goal is to build meaningful software and pursue a career in software engineer
 
 Feel free to reach out!
 
-##My Skills
+## My Skills 🧠
 
-#Coding Experience
-<!--
-**Garcia-Tony/Garcia-Tony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Coding Experience 📚
 
 Here are some ideas to get you started:
 
