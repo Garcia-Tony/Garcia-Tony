@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Garcia-Tony&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-About Me 🔭  
+##About Me 🔭  
 Hello! I'm Anthony Garcia, a Software Engineer Developer.
 
 I’m passionate about coding and problem-solving, a journey that started in high school and led me to LearningFuze to refine my skills. I thrive on creating solutions and continuously learning in this ever-evolving field.
@@ -18,9 +18,8 @@ Feel free to reach out!
 - 🧳 Open to new opportunities in software development
 
 
-🛠️ Technical Skills
-  
-  ### Languages
+##Technical Skills 🧠  
+### Languages
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
