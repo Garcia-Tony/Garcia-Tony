@@ -1,9 +1,6 @@
-<!-- HEADER -->
-<div align="center">
   <h1>Anthony Garcia</h1>
   <h3>Full Stack Software Engineer</h3>
   <img src="https://komarev.com/ghpvc/?username=Garcia-Tony&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
 
 ---
 
