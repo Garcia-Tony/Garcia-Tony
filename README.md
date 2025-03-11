@@ -1,11 +1,11 @@
+<!-- HEADER -->
+<div align="center">
   <h1>Anthony Garcia</h1>
   <h3>Full Stack Software Engineer</h3>
   <img src="https://komarev.com/ghpvc/?username=Garcia-Tony&style=flat-square&color=blue" alt="Profile Views"/>
-
+</div>
 ---
 
-<!-- ABOUT ME SECTION -->
-<details>
   <summary><b>📝 About Me</b></summary>
   <br>
 Hello! I'm Anthony Garcia, a Software Engineer Developer.
@@ -18,7 +18,7 @@ Feel free to reach out!
  
 - 💰 I'm currently working on **ProBudget**, a budgeting app!
 - 🧳 Open to new opportunities in software development
-</details>
+
 
 ---
 
